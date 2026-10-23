@@ -2,4 +2,4 @@
 layout: default
 title: Investigations
 ---
-<section class="hero slim"><div class="wrap"><p class="eyebrow">OPEN CASE FILES</p><h1>Investigations</h1><p class="lede">Individual reported encounters, organized by location, period, and source trail.</p></div></section><section class="wrap section"><div class="card-list">{% for item in site.investigations %}<a class="record" href="{{ item.url | relative_url }}"><strong>{{ item.title }}</strong><span>{{ item.date_label }} · {{ item.location }} · {{ item.status }}</span><span class="arrow">↗</span></a>{% endfor %}</div></section>
+<section class="hero slim"><div class="wrap"><p class="eyebrow">OPEN CASE FILES</p><h1>Investigations</h1><p class="lede">Each file documents a reported encounter and traces the available evidence by date, location, witness context, and publication history.</p></div></section><section class="wrap section"><div class="card-list">{% for item in site.investigations %}<a class="record" href="{{ item.url | relative_url }}"><strong>{{ item.title }}</strong><span>{{ item.date_label }} · {{ item.location }} · {{ item.status }}</span><span class="arrow">↗</span></a>{% endfor %}</div></section>
