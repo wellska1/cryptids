@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Ohio Grassman hero card</title>
+  <desc id="desc">Stylized woodland clearing with broad grassman silhouette.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#12251f"/>
+      <stop offset="100%" stop-color="#35544c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <path d="M0 675 L0 250 L145 260 L145 675 Z M1050 675 L1050 220 L1200 240 L1200 675 Z" fill="#0f1f1a"/>
+  <path d="M0 575 C200 545, 350 560, 550 585 C770 615, 990 610, 1200 580 L1200 675 L0 675 Z" fill="#0d1816"/>
+  <path d="M570 540 L590 400 L650 350 L720 350 L775 390 L800 470 L790 560 L740 620 L650 620 Z" fill="#11231f" stroke="#9abda8" stroke-width="3"/>
+  <text x="64" y="92" fill="#f0eadb" font-family="DM Sans, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="2">OHIO GRASSMAN</text>
+</svg>

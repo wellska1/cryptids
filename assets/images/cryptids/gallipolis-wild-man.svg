@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Gallipolis Wild Man hero card</title>
+  <desc id="desc">Stylized riverbank silhouette of a broad-shouldered wild man.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#102127"/>
+      <stop offset="100%" stop-color="#2b4650"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <path d="M0 460 C160 430, 330 435, 520 470 C710 500, 930 510, 1200 470 L1200 675 L0 675 Z" fill="#0e1a1d"/>
+  <path d="M0 520 C220 500, 420 510, 640 545 C850 575, 1030 575, 1200 540 L1200 675 L0 675 Z" fill="#0b1518"/>
+  <path d="M670 510 L690 390 L740 340 L790 338 L845 360 L870 410 L860 495 L815 560 L740 575 Z" fill="#132327" stroke="#9abda8" stroke-width="3"/>
+  <text x="64" y="92" fill="#f0eadb" font-family="DM Sans, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="2">GALLIPOLIS WILD MAN</text>
+</svg>

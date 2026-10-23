@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Lake Erie Monster hero card</title>
+  <desc id="desc">Stylized lake surface with long serpentine silhouette.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1f3c47"/>
+      <stop offset="100%" stop-color="#0f1d22"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <path d="M0 320 C150 310, 300 340, 450 330 C650 315, 840 360, 1200 320 L1200 675 L0 675 Z" fill="#102228"/>
+  <path d="M100 470 C190 430, 260 520, 350 480 C440 440, 520 530, 620 485 C720 440, 800 530, 900 485" fill="none" stroke="#9abda8" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="915" cy="487" r="8" fill="#d9c58f"/>
+  <text x="64" y="92" fill="#f0eadb" font-family="DM Sans, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="2">LAKE ERIE MONSTER</text>
+</svg>

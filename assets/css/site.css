@@ -3,3 +3,21 @@
 
 /* Evidence dossier viewer */
 .scan-viewer{overflow:auto;max-height:75vh;background:#101b1d;border:1px solid #61766b;border-radius:12px;padding:1rem}.scan-viewer img{display:block;max-width:100%;height:auto}.scan-actions{display:flex;flex-wrap:wrap;gap:.6rem;position:sticky;bottom:0;background:#162527;padding:.6rem}.scan-actions button{background:#344b43;color:#f4e7c9;border:1px solid #657a6a;border-radius:5px;padding:.4rem .8rem;cursor:pointer}.missing-artifact{padding:1.4rem;border:1px dashed #8d997f;background:#1a2b2b;border-radius:12px}.transcript{white-space:normal;line-height:1.7;border-left:3px solid #d4c494;padding-left:1rem}
+
+/* Navigation state */
+nav a.active{color:#f7e8bc;border-bottom:2px solid var(--gold);padding-bottom:2px}
+
+/* Cryptid hero cards */
+.cryptid-frame{display:block;position:relative;overflow:hidden;border-radius:12px;margin-bottom:12px;background:linear-gradient(160deg,#102326,#1a3337);border:1px solid #557068;box-shadow:0 14px 30px rgba(0,0,0,.25),inset 0 0 0 1px rgba(217,197,143,.12)}
+.cryptid-frame::before{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(135deg,rgba(255,255,255,.14),rgba(255,255,255,0) 36%)}
+.cryptid-frame::after{content:"";position:absolute;inset:9px;border:1px solid rgba(217,197,143,.28);border-radius:8px;pointer-events:none}
+.cryptid-thumb,.cryptid-hero-card{display:block;width:100%;height:auto;object-fit:cover;transform:scale(1.01);transition:transform .55s ease,filter .55s ease}
+.cryptid-thumb{aspect-ratio:16/9}
+.cryptid-frame-hero{display:block;width:min(860px,100%);margin-top:20px;border-radius:14px}
+.cryptid-frame-hero::after{inset:11px;border-radius:10px}
+.case-card:hover .cryptid-thumb,.case-card:focus-visible .cryptid-thumb{transform:scale(1.04) translateY(-2px);filter:saturate(1.08) contrast(1.03)}
+
+@media (prefers-reduced-motion: reduce){
+	.cryptid-thumb,.cryptid-hero-card{transition:none}
+	.case-card:hover .cryptid-thumb,.case-card:focus-visible .cryptid-thumb{transform:none;filter:none}
+}

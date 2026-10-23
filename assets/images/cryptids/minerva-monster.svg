@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Minerva Monster hero card</title>
+  <desc id="desc">Stylized ridge-line scene with upright heavy silhouette.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#13232a"/>
+      <stop offset="100%" stop-color="#2f4652"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <path d="M0 560 L150 530 L320 540 L480 510 L690 545 L860 525 L1200 560 L1200 675 L0 675 Z" fill="#0f1a1f"/>
+  <path d="M720 550 L735 430 L780 385 L838 380 L890 405 L915 470 L900 560 L850 620 L780 620 Z" fill="#101f25" stroke="#9abda8" stroke-width="3"/>
+  <text x="64" y="92" fill="#f0eadb" font-family="DM Sans, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="2">MINERVA MONSTER</text>
+</svg>

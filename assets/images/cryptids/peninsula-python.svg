@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Peninsula Python hero card</title>
+  <desc id="desc">Stylized marsh scene with large coiled serpent silhouette.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a2b25"/>
+      <stop offset="100%" stop-color="#3d5648"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <path d="M0 470 C200 445, 430 500, 640 470 C830 442, 980 500, 1200 470 L1200 675 L0 675 Z" fill="#11201c"/>
+  <path d="M380 555 C435 495, 530 495, 585 555 C640 615, 735 615, 790 555 C845 495, 940 495, 995 555" fill="none" stroke="#9abda8" stroke-width="22" stroke-linecap="round"/>
+  <path d="M995 555 C1038 528, 1088 538, 1118 565 C1080 585, 1038 586, 995 555 Z" fill="#9abda8"/>
+  <text x="64" y="92" fill="#f0eadb" font-family="DM Sans, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="2">PENINSULA PYTHON</text>
+</svg>

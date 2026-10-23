@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Kirtland Melon Heads hero card</title>
+  <desc id="desc">Stylized wooded lane with small large-headed silhouettes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#142126"/>
+      <stop offset="100%" stop-color="#39505a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <path d="M0 675 L0 260 L170 250 L170 675 Z M1030 675 L1030 230 L1200 245 L1200 675 Z" fill="#132024"/>
+  <path d="M440 675 L520 450 L680 450 L760 675 Z" fill="#1d2f34"/>
+  <g fill="#101b1e" stroke="#9abda8" stroke-width="2.5">
+    <circle cx="575" cy="430" r="34"/><rect x="556" y="458" width="38" height="85" rx="18"/>
+    <circle cx="660" cy="418" r="30"/><rect x="643" y="444" width="34" height="82" rx="16"/>
+    <circle cx="505" cy="418" r="30"/><rect x="488" y="444" width="34" height="82" rx="16"/>
+  </g>
+  <text x="64" y="92" fill="#f0eadb" font-family="DM Sans, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="2">KIRTLAND MELON HEADS</text>
+</svg>

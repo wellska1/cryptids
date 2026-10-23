@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Defiance Werewolf hero card</title>
+  <desc id="desc">Stylized moonlit werewolf silhouette over rail tracks.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1a1d"/>
+      <stop offset="100%" stop-color="#22393f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <circle cx="935" cy="170" r="95" fill="#d9c58f" opacity="0.9"/>
+  <path d="M0 560 L180 520 L360 555 L540 500 L760 550 L920 510 L1200 560 L1200 675 L0 675 Z" fill="#0a1316"/>
+  <path d="M150 620 L370 620 M520 620 L760 620 M860 620 L1110 620" stroke="#5b6f68" stroke-width="7"/>
+  <path d="M600 470 L635 395 L690 345 L735 352 L760 320 L790 338 L770 370 L792 390 L785 425 L750 445 L700 455 L665 480 Z" fill="#111d20" stroke="#9abda8" stroke-width="3"/>
+  <text x="64" y="92" fill="#f0eadb" font-family="DM Sans, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="2">DEFIANCE WEREWOLF</text>
+</svg>
