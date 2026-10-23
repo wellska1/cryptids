@@ -22,10 +22,10 @@ timeline:
 
 A family-centered series of reported encounters, with later reporting and claims of law-enforcement response.
 
-## What is established
+## Case notes
 
-The sources listed below document the history of the claim at varying levels of certainty. They do not establish that an unknown creature was present.
+The sources below show how this story moved through local reporting and later retellings.
 
-## Open questions
+## Further leads
 
-Original scans, direct interviews, independent corroboration, and alternative explanations should be evaluated before upgrading the case's research status.
+To keep the mystery going, look for original scans, firsthand interviews, nearby matching reports, and alternative explanations.
