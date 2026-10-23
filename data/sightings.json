@@ -1,0 +1,5 @@
+---
+layout: null
+permalink: /data/sightings.json
+---
+[{% for s in site.data.sightings %}{"id":{{ s.id | jsonify }},"title":{{ s.title | jsonify }},"category":{{ s.category | jsonify }},"period":{{ s.period | jsonify }},"location":{{ s.location | jsonify }},"county":{{ s.county | jsonify }},"summary":{{ s.summary | jsonify }},"lat":{{ s.lat }},"lon":{{ s.lon }},"url":{{ s.url | relative_url | jsonify }},"precision":{{ s.precision | jsonify }},"status":{{ s.status | jsonify }}}{% unless forloop.last %},{% endunless %}{% endfor %}]

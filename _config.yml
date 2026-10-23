@@ -1,0 +1,28 @@
+title: Ohio Cryptid Atlas
+description: An evidence-first archive of Ohio cryptid folklore and historical reports.
+url: ""
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+collections:
+  cryptids:
+    output: true
+    permalink: /cryptids/:name/
+  investigations:
+    output: true
+    permalink: /investigations/:name/
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - scripts
+  - .github
+  - vendor
+  - node_modules
+  - LICENSE
+  - .gitignore
+  - DEPLOYMENT.md
+  - SECURITY.md
+  - RESEARCH-STANDARDS.md
+
+  - SOURCES-ADDED.md

@@ -1,0 +1,99 @@
+- id: minerva-1978
+  title: Minerva Monster
+  category: Bigfoot-like
+  period: August 1978
+  location: Paris Township, Stark County
+  county: Stark County
+  summary: A family-centered series of reported encounters, with later reporting and
+    claims of law-enforcement response.
+  lat: 40.73
+  lon: -81.11
+  url: /investigations/minerva-1978/
+  precision: Township-level approximation
+  status: Reported
+- id: lake-erie-1892
+  title: Lake Erie Sea Serpent
+  category: Aquatic
+  period: July 1892
+  location: Western Lake Erie (illustrative marker)
+  county: Lake Erie
+  summary: A schooner captain’s alleged encounter, circulated through newspapers in
+    July 1892.
+  lat: 41.73
+  lon: -82.75
+  url: /investigations/lake-erie-1892/
+  precision: Lake-wide / illustrative only
+  status: Documented publication
+- id: loveland-1972
+  title: Loveland Frogman
+  category: Humanoid
+  period: March 1972
+  location: Loveland, Clermont County
+  county: Clermont County
+  summary: Police officers’ reported observations and a subsequent iguana explanation.
+  lat: 39.27
+  lon: -84.26
+  url: /investigations/loveland-1972/
+  precision: Town-level approximation
+  status: Reported
+- id: defiance-1972
+  title: Defiance Werewolf
+  category: Humanoid
+  period: August 1972
+  location: Defiance, Defiance County
+  county: Defiance County
+  summary: Accounts of a wolf-headed figure near railroad tracks in 1972.
+  lat: 41.28
+  lon: -84.36
+  url: /investigations/defiance-1972/
+  precision: Town-level approximation
+  status: Documented publication
+- id: gallipolis-1869
+  title: Gallipolis Wild Man
+  category: Bigfoot-like
+  period: January 1869
+  location: Gallipolis, Gallia County
+  county: Gallia County
+  summary: Nineteenth-century newspaper accounts of a hairy wild man.
+  lat: 38.81
+  lon: -82.2
+  url: /investigations/gallipolis-1869/
+  precision: Town-level approximation
+  status: Documented publication
+- id: kirtland-legend
+  title: Kirtland Melon Heads
+  category: Folklore
+  period: Undated
+  location: Kirtland, Lake County
+  county: Lake County
+  summary: A regional oral tradition whose original source remains undetermined.
+  lat: 41.6
+  lon: -81.36
+  url: /investigations/kirtland-legend/
+  precision: Town-level approximation
+  status: Folklore
+- id: salt-fork-grassman
+  title: Ohio Grassman
+  category: Bigfoot-like
+  period: Various years
+  location: Salt Fork State Park region
+  county: Guernsey County
+  summary: A regional index entry for multiple alleged Bigfoot-like encounters.
+  lat: 40.11
+  lon: -81.47
+  url: /investigations/salt-fork-grassman/
+  precision: Park-level approximation
+  status: Reported
+- id: peninsula-python-1944
+  title: Peninsula Python
+  category: Aquatic
+  period: 1944 (unverified)
+  location: Peninsula, Summit County
+  county: Summit County
+  summary: A regional story about an unusually large snake; original contemporary
+    source remains to be established.
+  lat: 41.24
+  lon: -81.55
+  url: /investigations/peninsula-python-1944/
+  precision: Town-level approximation
+  status: Unverified lead

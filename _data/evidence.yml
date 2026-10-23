@@ -1,0 +1,328 @@
+- id: E001
+  investigation: lake-erie-1892
+  title: New-York Tribune sea-serpent article
+  type: Newspaper
+  date: '1892-07-10'
+  status: Bibliographic lead
+  summary: A contemporary publication reference for the alleged schooner encounter; inspect the original scan and
+    verify page placement.
+  citation: New-York Tribune (New York), July 10, 1892, reported sea-serpent account; inspect linked Library of
+    Congress page to verify headline and placement.
+  source_url: https://www.loc.gov/resource/sn83030214/1892-07-10/ed-1/?sp=143
+  source_kind: digitized_newspaper_link
+  original_document_verified: false
+  media_path: ''
+  transcription: ''
+  annotations:
+  - Earlier project metadata listed July 17, 1892. The July 10 digitized edition is now linked; dates and article
+    placement must be reconciled before claiming an exact article match.
+  rights: Not assessed — do not republish a scan without checking permissions.
+  access_note: Direct Library of Congress newspaper page link supplied; article placement and transcription still
+    require page-by-page verification.
+  citation_status: Direct archive page linked; article not independently transcribed
+  location_precision: Regional / approximate
+  research_notes: Citation is a research lead until an original scan, stable URL, or library record is verified.
+- id: E002
+  investigation: lake-erie-1892
+  title: Pittsburg Dispatch reprint
+  type: Newspaper
+  date: '1892-07-18'
+  status: Bibliographic lead
+  summary: A second newspaper reference, potentially syndicated from the same underlying story.
+  citation: Pittsburg Dispatch, July 18, 1892, reported page 3.
+  source_url: https://www.loc.gov/newspapers/
+  source_kind: bibliographic
+  original_document_verified: false
+  media_path: ''
+  transcription: ''
+  annotations: []
+  rights: Not assessed — do not republish a scan without checking permissions.
+  access_note: Link may lead to a newspaper home page or archive catalog, not the cited article.
+  citation_status: Needs original-source verification
+  location_precision: Regional / approximate
+  research_notes: Citation is a research lead until an original scan, stable URL, or library record is verified.
+- id: E003
+  investigation: minerva-1978
+  title: Minerva Monster retrospective
+  type: Newspaper
+  date: '2004-08-15'
+  status: Secondary account
+  summary: Retrospective reporting attributed to Ed Balint; verify text and scan before quotation.
+  citation: The Repository (Canton), August 15, 2004, Ed Balint, “The Minerva Monster.”
+  source_url: https://www.cantonrep.com/
+  source_kind: bibliographic
+  original_document_verified: false
+  media_path: ''
+  transcription: ''
+  annotations:
+  - A later retrospective, not the original 1978 eyewitness record.
+  rights: Not assessed — do not republish a scan without checking permissions.
+  access_note: Newspaper publisher home page; direct article link has not been verified.
+  citation_status: Needs original-source verification
+  location_precision: Regional / approximate
+  research_notes: Citation is a research lead until an original scan, stable URL, or library record is verified.
+- id: E004
+  investigation: minerva-1978
+  title: Cayton family accounts
+  type: Witness
+  date: '1978'
+  status: Secondary account
+  summary: Accounts attributed to the Cayton family. Direct original interview recordings have not been supplied.
+  citation: Witness accounts described in later Minerva case reporting.
+  source_url: ''
+  source_kind: research_lead
+  original_document_verified: false
+  media_path: ''
+  transcription: ''
+  annotations: []
+  rights: Not assessed — do not republish a scan without checking permissions.
+  access_note: No public source URL has been verified.
+  citation_status: Needs original-source verification
+  location_precision: Regional / approximate
+  research_notes: Citation is a research lead until an original scan, stable URL, or library record is verified.
+- id: E005
+  investigation: minerva-1978
+  title: Sheriff dispatch and incident records
+  type: Official record lead
+  date: '1978'
+  status: Unverified lead
+  summary: A proposed public-records research request; no original police record is included.
+  citation: 'Research task: locate original sheriff or dispatch records.'
+  source_url: ''
+  source_kind: research_lead
+  original_document_verified: false
+  media_path: ''
+  transcription: ''
+  annotations: []
+  rights: Not assessed — do not republish a scan without checking permissions.
+  access_note: No public source URL has been verified.
+  citation_status: Needs original-source verification
+  location_precision: Regional / approximate
+  research_notes: Citation is a research lead until an original scan, stable URL, or library record is verified.
+- id: E006
+  investigation: defiance-1972
+  title: Crescent-News report
+  type: Newspaper
+  date: '1972-08-02'
+  status: Bibliographic lead
+  summary: Contemporary newspaper account of the reported railroad-area sightings.
+  citation: Ellen Armstrong, “Horror Movie Now Playing On Fifth St.,” The Crescent-News (Defiance), August 2 or
+    3, 1972 (date disputed among secondary references; check original issue).
+  source_url: https://www.oocities.org/zoomar1/wolfman.html
+  source_kind: third_party_transcription
+  original_document_verified: false
+  media_path: ''
+  transcription: ''
+  annotations:
+  - Secondary sources disagree whether the article appeared August 2 or August 3, 1972. Do not present a date as
+    definitively verified.
+  rights: Not assessed — do not republish a scan without checking permissions.
+  access_note: Third-party transcription reproducing a purported 1972 newspaper article; original page scan not
+    authenticated.
+  citation_status: Third-party transcription only; issue date needs checking
+  location_precision: Regional / approximate
+  research_notes: Citation is a research lead until an original scan, stable URL, or library record is verified.
+- id: E007
+  investigation: defiance-1972
+  title: Toledo Blade report
+  type: Newspaper
+  date: '1972-08-03'
+  status: Bibliographic lead
+  summary: Contemporary report describing the Defiance werewolf investigation.
+  citation: James Stegall, “Werewolf Case in Defiance Not Viewed Lightly by Police,” The Blade (Toledo), August
+    3, 1972, pp. 1, 4 (page references reported by secondary bibliography; verify original).
+  source_url: https://weirddarkness.com/werewolf-of-defiance-newspaper-article/
+  source_kind: third_party_transcription
+  original_document_verified: false
+  media_path: ''
+  transcription: ''
+  annotations:
+  - Earlier project metadata said August 2. Toledo History Box and other sources identify the Blade article as August
+    3, 1972.
+  - 'Independent contextual account: https://www.toledohistorybox.com/2018/10/25/the-defiance-werewolf/'
+  rights: Not assessed — do not republish a scan without checking permissions.
+  access_note: Modern third-party transcription; not an original newspaper scan. See Toledo History Box for historical
+    contextualization.
+  citation_status: Transcription located; original scan pending
+  location_precision: Regional / approximate
+  research_notes: Citation is a research lead until an original scan, stable URL, or library record is verified.
+- id: E008
+  investigation: loveland-1972
+  title: Police eyewitness accounts
+  type: Witness
+  date: 1972-03
+  status: Secondary account
+  summary: Reported accounts attributed to officers Ray Shockey and Mark Matthews.
+  citation: Loveland Frogman reporting; original interviews to be located.
+  source_url: https://www.ohiomagazine.com/ohio-life/article/field-guide-to-ohio-cryptids
+  source_kind: secondary_article
+  original_document_verified: false
+  media_path: ''
+  transcription: ''
+  annotations: []
+  rights: Not assessed — do not republish a scan without checking permissions.
+  access_note: Ohio Magazine secondary overview; not an original officer report.
+  citation_status: Needs original-source verification
+  location_precision: Regional / approximate
+  research_notes: Citation is a research lead until an original scan, stable URL, or library record is verified.
+- id: E009
+  investigation: gallipolis-1869
+  title: Gallipolis Wild Man newspaper reprints
+  type: Newspaper
+  date: '1869'
+  status: Bibliographic lead
+  summary: Nineteenth-century reprints indicate circulation of the story; original reporting requires comparison.
+  citation: The Cambria Freeman, January 28, 1869, reported page 1.
+  source_url: https://www.loc.gov/resource/sn83032041/1869-01-28/ed-1/
+  source_kind: bibliographic
+  original_document_verified: false
+  media_path: ''
+  transcription: ''
+  annotations: []
+  rights: Not assessed — do not republish a scan without checking permissions.
+  access_note: Library of Congress issue link; article placement not independently verified.
+  citation_status: Needs original-source verification
+  location_precision: Regional / approximate
+  research_notes: Citation is a research lead until an original scan, stable URL, or library record is verified.
+- id: E010
+  investigation: kirtland-legend
+  title: Kirtland Melon Heads oral tradition
+  type: Folklore
+  date: Undated
+  status: Folklore
+  summary: Regional legend; no verified original dated incident is attached.
+  citation: Regional oral history; earliest print source undetermined.
+  source_url: ''
+  source_kind: oral_tradition
+  original_document_verified: false
+  media_path: ''
+  transcription: ''
+  annotations: []
+  rights: Not assessed — do not republish a scan without checking permissions.
+  access_note: No public source URL has been verified.
+  citation_status: Needs original-source verification
+  location_precision: Regional / approximate
+  research_notes: Citation is a research lead until an original scan, stable URL, or library record is verified.
+- id: E011
+  investigation: salt-fork-grassman
+  title: Salt Fork regional report index
+  type: Witness
+  date: Various
+  status: Unverified lead
+  summary: Collection-level research lead; individual witness statements should be cataloged separately.
+  citation: Regional Bigfoot accounts; no individual primary record attached.
+  source_url: ''
+  source_kind: research_lead
+  original_document_verified: false
+  media_path: ''
+  transcription: ''
+  annotations: []
+  rights: Not assessed — do not republish a scan without checking permissions.
+  access_note: No public source URL has been verified.
+  citation_status: Needs original-source verification
+  location_precision: Regional / approximate
+  research_notes: Citation is a research lead until an original scan, stable URL, or library record is verified.
+- id: E012
+  investigation: peninsula-python-1944
+  title: Peninsula Python original newspaper search
+  type: Newspaper
+  date: 1944 (reported)
+  status: Unverified lead
+  summary: Find an original contemporary article before treating the reported year as established.
+  citation: Unlocated original source.
+  source_url: ''
+  source_kind: bibliographic
+  original_document_verified: false
+  media_path: ''
+  transcription: ''
+  annotations: []
+  rights: Not assessed — do not republish a scan without checking permissions.
+  access_note: No public source URL has been verified.
+  citation_status: Needs original-source verification
+  location_precision: Regional / approximate
+  research_notes: Citation is a research lead until an original scan, stable URL, or library record is verified.
+- id: E013
+  investigation: minerva-1978
+  title: 'Akron Beacon Journal: Minerva monster (1980)'
+  type: Newspaper
+  date: '1980-06-29'
+  status: Source linked — verify original
+  summary: Digitized compilation reproduces a 1980 newspaper report about the Cayton family and alleged encounters.
+  citation: Barbara Mudrak, “Minerva’s ‘monster’ is ‘almost like a pet’,” Akron Beacon Journal, June 29, 1980. Reproduced
+    in UFO Newsclipping Service, no. 132 (July 1980).
+  source_url: https://projectaquarius.mufon.com/wp-content/uploads/NewsClippings/UFO-Newsclipping-Service/UFO-Newsclipping-Service-1980-07-no-132.pdf
+  source_kind: archived_newspaper_clipping
+  original_document_verified: false
+  media_path: ''
+  transcription: ''
+  annotations:
+  - This is a later reproduction of a newspaper clipping, not the newspaper publisher’s official digital edition.
+  - The article describes photographs but does not establish that any photographs are authenticated.
+  rights: External document only. Do not mirror or reproduce without checking copyright and permissions.
+  access_note: Direct link to source material; no authenticated local scan is bundled.
+  citation_status: Source located; verification and rights review pending
+  location_precision: Regional / approximate
+  research_notes: A published account establishes reporting, not the existence of a cryptid.
+- id: E014
+  investigation: minerva-1978
+  title: BFRO Stark County report index
+  type: Newspaper
+  date: '1978'
+  status: Source linked — verify original
+  summary: Index of witness reports and later compiled case material; individual report dates and claims require
+    checking.
+  citation: Bigfoot Field Researchers Organization, “Stark County, Ohio — Reports & Articles,” index of accounts
+    including the 1978 Minerva reports.
+  source_url: https://www.bfro.net/GDB/show_county_reports.asp?county=Stark&state=OH
+  source_kind: secondary_report_index
+  original_document_verified: false
+  media_path: ''
+  transcription: ''
+  annotations:
+  - BFRO report classifications are organization-specific, not independent scientific verification.
+  rights: External document only. Do not mirror or reproduce without checking copyright and permissions.
+  access_note: Direct link to source material; no authenticated local scan is bundled.
+  citation_status: Source located; verification and rights review pending
+  location_precision: Regional / approximate
+  research_notes: A published account establishes reporting, not the existence of a cryptid.
+- id: E015
+  investigation: defiance-1972
+  title: 'Toledo History Box: Defiance Werewolf retrospective'
+  type: Newspaper
+  date: '2018-10-25'
+  status: Source linked — verify original
+  summary: Historical retrospective identifying the August 3, 1972 Toledo Blade reporting.
+  citation: Toledo History Box, “The Defiance Werewolf,” October 25, 2018.
+  source_url: https://www.toledohistorybox.com/2018/10/25/the-defiance-werewolf/
+  source_kind: secondary_article
+  original_document_verified: false
+  media_path: ''
+  transcription: ''
+  annotations:
+  - Secondary contextual account; consult original newspaper for exact wording.
+  rights: External document only. Do not mirror or reproduce without checking copyright and permissions.
+  access_note: Direct link to source material; no authenticated local scan is bundled.
+  citation_status: Source located; verification and rights review pending
+  location_precision: Regional / approximate
+  research_notes: A published account establishes reporting, not the existence of a cryptid.
+- id: E016
+  investigation: lake-erie-1892
+  title: Ohio newspaper sea-serpent reprint (July 21)
+  type: Newspaper
+  date: '1892-07-21'
+  status: Source linked — verify original
+  summary: Linked digitized newspaper issue potentially containing a reprint of the Lake Erie sea-serpent story.
+  citation: Democratic Northwest (Napoleon, Ohio), July 21, 1892, Library of Congress digitized issue; locate and
+    verify the sea-serpent passage.
+  source_url: https://www.loc.gov/resource/sn84028296/1892-07-21/ed-1/?sp=873
+  source_kind: digitized_newspaper_link
+  original_document_verified: false
+  media_path: ''
+  transcription: ''
+  annotations:
+  - This is a candidate source page; verify the story is present before publishing a transcription.
+  rights: External document only. Do not mirror or reproduce without checking copyright and permissions.
+  access_note: Direct link to source material; no authenticated local scan is bundled.
+  citation_status: Source located; verification and rights review pending
+  location_precision: Regional / approximate
+  research_notes: A published account establishes reporting, not the existence of a cryptid.
