@@ -5,17 +5,17 @@
   <rect x="36" y="36" width="828" height="1248" fill="#f7f2e6" stroke="#262626" stroke-width="2"/>
   <text x="450" y="100" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700" fill="#111111">A MARINE MONSTER.</text>
   <text x="450" y="140" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="600" fill="#111111">Captain of a Lake Erie Schooner Discovers a Sea Serpent.</text>
-  <text x="70" y="210" font-family="Georgia, 'Times New Roman', serif" font-size="33" fill="#1a1a1a">
-    <tspan x="70" dy="0">TOLEDO, O., July 20. The schooner Madeline Downing has arrived</tspan>
-    <tspan x="70" dy="45">in this port. Early last Wednesday, while passing the Dunning,</tspan>
-    <tspan x="70" dy="45">Captain Patrick Woods reportedly saw, about half a mile ahead,</tspan>
-    <tspan x="70" dy="45">the water lashed into a foam. Drawing near, he described a huge</tspan>
-    <tspan x="70" dy="45">sea serpent wrestling in the water as if in combat with an unseen</tspan>
-    <tspan x="70" dy="45">enemy. It soon lay at full length on the surface.</tspan>
-    <tspan x="70" dy="60">Captain Woods estimated it at roughly fifty feet long and not less</tspan>
-    <tspan x="70" dy="45">than four feet in circumference. He described large fins, sparkling</tspan>
-    <tspan x="70" dy="45">eyes, and a body dark brown in color. The vessel then passed on</tspan>
-    <tspan x="70" dy="45">its course as the creature was seen disporting itself in the lake.</tspan>
+  <text x="70" y="210" font-family="Georgia, 'Times New Roman', serif" font-size="23" fill="#1a1a1a">
+    <tspan x="70" dy="0">TOLEDO, O., July 20. The schooner Madeline Downing has arrived in this port.</tspan>
+    <tspan x="70" dy="34">Early last Wednesday, while passing the Dunning, Captain Patrick Woods</tspan>
+    <tspan x="70" dy="34">reportedly saw, about half a mile ahead, the water lashed into a foam.</tspan>
+    <tspan x="70" dy="34">Drawing near, he described a huge sea serpent wrestling in the water</tspan>
+    <tspan x="70" dy="34">as if in combat with an unseen enemy. It soon lay at full length</tspan>
+    <tspan x="70" dy="34">on the surface.</tspan>
+    <tspan x="70" dy="46">Captain Woods estimated it at roughly fifty feet long and not less than</tspan>
+    <tspan x="70" dy="34">four feet in circumference. He described large fins, sparkling eyes,</tspan>
+    <tspan x="70" dy="34">and a body dark brown in color. The vessel then passed on its course</tspan>
+    <tspan x="70" dy="34">as the creature was seen disporting itself in the lake.</tspan>
   </text>
   <line x1="70" y1="920" x2="830" y2="920" stroke="#444" stroke-width="1"/>
   <text x="70" y="970" font-family="Georgia, 'Times New Roman', serif" font-size="25" fill="#111111">
