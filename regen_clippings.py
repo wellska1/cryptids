@@ -138,7 +138,7 @@ def render_svg(record):
     meta_lines = wrap_text(meta_text, 80)
     summary_lines = wrap_text(record.get('summary', ''), 62)
     citation_lines = wrap_text(record.get('citation', ''), 70)
-    url_lines = wrap_text(record.get('source_url', ''), 92)
+    url_lines = wrap_text(record.get('source_url', ''), 68)
 
     elems = []
     y = 115

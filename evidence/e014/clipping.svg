@@ -12,5 +12,6 @@
   <text x="70" y="363" font-family="Georgia, Times New Roman, serif" font-size="19" font-weight="400" fill="#111">&amp; Articles,” index of accounts including the 1978 Minerva reports.</text>
   <line x1="70" y1="1342" x2="930" y2="1342" stroke="#777" stroke-width="1"/>
   <text x="70" y="1360" font-family="Georgia, Times New Roman, serif" font-size="16" font-weight="700" fill="#222">Source URL</text>
-  <text x="70" y="1384" font-family="Georgia, Times New Roman, serif" font-size="15" font-weight="400" fill="#222">https://www.bfro.net/GDB/show_county_reports.asp?county=Stark&amp;state=OH</text>
+  <text x="70" y="1384" font-family="Georgia, Times New Roman, serif" font-size="15" font-weight="400" fill="#222">https://www.bfro.net/GDB/show_county_reports.asp?county=Stark&amp;state=</text>
+  <text x="70" y="1404" font-family="Georgia, Times New Roman, serif" font-size="15" font-weight="400" fill="#222">OH</text>
 </svg>
