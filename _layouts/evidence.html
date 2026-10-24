@@ -36,7 +36,7 @@ layout: default
 
 		{% if local_artifact and local_artifact != empty %}
 		<div class="scan-viewer">
-			<img id="scan-image" src="{{ local_artifact | relative_url }}" alt="Archival evidence: {{ e.title | escape }}" loading="lazy">
+			<img id="scan-image" src="{{ local_artifact | relative_url }}" alt="Archival evidence: {{ e.title | escape }}" loading="lazy"{% if e.artifact_focus and e.artifact_focus != empty %} data-focus="{{ e.artifact_focus }}"{% endif %}>
 			<div class="scan-actions">
 				<button type="button" id="zoom-in">Zoom +</button>
 				<button type="button" id="zoom-out">Zoom -</button>
