@@ -7,7 +7,7 @@
   summary: A contemporary publication reference for the alleged schooner encounter, linked for archive context.
   citation: New-York Tribune (New York), July 10, 1892, reported sea-serpent account; linked Library of Congress
     issue for reference.
-  source_url: https://www.loc.gov/resource/sn83030214/1892-07-10/ed-1/?sp=143
+  source_url: https://www.loc.gov/resource/sn83030214/1892-07-10/ed-1/
   source_kind: digitized_newspaper_link
   original_document_verified: false
   media_path: ''
@@ -28,15 +28,15 @@
   status: Bibliographic lead
   summary: A second newspaper reference, potentially syndicated from the same underlying story.
   citation: Pittsburg Dispatch, July 18, 1892, reported page 3.
-  source_url: https://www.loc.gov/newspapers/
+  source_url: https://www.loc.gov/resource/sn84024546/1892-07-18/ed-1/
   source_kind: bibliographic
   original_document_verified: false
   media_path: ''
   transcription: ''
   annotations: []
   rights: Not assessed — do not republish a scan without checking permissions.
-  access_note: Link may lead to a newspaper home page or archive catalog, not the cited article.
-  citation_status: Source link logged
+  access_note: Direct Library of Congress issue link for archive browsing.
+  citation_status: Direct archive page linked
   location_precision: Regional / approximate
   research_notes: Citation logged for archive context and follow-up reading.
 - id: E003
@@ -307,15 +307,15 @@
   type: Newspaper
   date: '1892-07-21'
   status: Source linked
-  summary: Linked digitized newspaper issue potentially containing a reprint of the Lake Erie sea-serpent story.
-  citation: Democratic Northwest (Napoleon, Ohio), July 21, 1892, Library of Congress digitized issue.
-  source_url: https://www.loc.gov/resource/sn84028296/1892-07-21/ed-1/?sp=873
+  summary: Democratic Northwest includes the sea-serpent item titled "A Marine Monster," describing a Lake Erie schooner report.
+  citation: Democratic Northwest (Napoleon, Ohio), July 21, 1892, "A Marine Monster," Library of Congress digitized issue.
+  source_url: https://www.loc.gov/resource/sn84028296/1892-07-21/ed-1/
   source_kind: digitized_newspaper_link
   original_document_verified: false
   media_path: ''
-  transcription: ''
+  transcription: '"A MARINE MONSTER." Dateline "TOLEDO, O., July 20" reports Captain Patrick Woods of the schooner Madeline Downing saw a large sea serpent in Lake Erie, estimated around fifty feet long with visibly large fins and "sparkling eyes."'
   annotations:
-  - Candidate source page linked for archive context.
+  - Clipping confirms article heading and narrative details on the linked July 21, 1892 issue.
   rights: External document only. Do not mirror or reproduce without checking copyright and permissions.
   access_note: Direct link to source material; no authenticated local scan is bundled.
   citation_status: Source located
