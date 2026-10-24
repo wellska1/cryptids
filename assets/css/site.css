@@ -147,6 +147,7 @@ nav a:hover,nav a.active{
 /* Artifact viewer layout: keep controls static while panning image */
 .scan-viewer{
 	overflow:hidden;
+	max-height:none;
 	padding:1rem;
 }
 
