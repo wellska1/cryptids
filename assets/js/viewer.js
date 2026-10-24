@@ -8,6 +8,12 @@
 	const MIN_SCALE = 0.5;
 	const MAX_SCALE = 2.25;
 
+	const getFitScale = () => {
+		if (!stage || !img.naturalWidth) return 1;
+		const available = Math.max(1, stage.clientWidth - 24);
+		return Math.min(1, available / img.naturalWidth);
+	};
+
 	const parseFocus = () => {
 		const raw = img.getAttribute('data-focus');
 		if (!raw) return null;
@@ -27,7 +33,7 @@
 
 	const applyFocus = () => {
 		if (!stage || !focus || !img.naturalWidth || !img.naturalHeight) {
-			scale = 1;
+			scale = getFitScale();
 			apply();
 			if (stage) {
 				stage.scrollLeft = 0;
@@ -70,11 +76,7 @@
 	const runInitialFocus = () => {
 		requestAnimationFrame(() => {
 			requestAnimationFrame(() => {
-				if (focus) {
-					applyFocus();
-				} else {
-					apply();
-				}
+				applyFocus();
 			});
 		});
 	};

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1400" viewBox="0 0 1000 1400">
-  <rect width="100%" height="100%" fill="#f4f1e8"/>
-  <rect x="30" y="30" width="940" height="1340" fill="none" stroke="#1e1e1e" stroke-width="2"/>
-  <text x="500" y="70" text-anchor="middle" font-family="Georgia,Times New Roman,serif" font-size="20" fill="#333">CRYPTID GAZETTE ARCHIVE</text>
-  <text x="70" y="90" font-family="Georgia,Times New Roman,serif" font-size="48" font-weight="700" fill="#111">Ohio newspaper sea-serpent reprint (July</text>
-  <text x="70" y="142" font-family="Georgia,Times New Roman,serif" font-size="48" font-weight="700" fill="#111">21)</text>
-  <text x="70" y="206" font-family="Arial,sans-serif" font-size="20" fill="#444">Newspaper | 1892-07-21 | ID E016</text>
-  <line x1="70" y1="242" x2="930" y2="242" stroke="#777" stroke-width="1"/>
-  <text x="70" y="282" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#111">SUMMARY</text>
-  <text x="70" y="316" font-family="Georgia,Times New Roman,serif" font-size="24" fill="#1d1d1d">Democratic Northwest includes the sea-serpent item titled &quot;A Marine Monster,&quot;</text>
-  <text x="70" y="350" font-family="Georgia,Times New Roman,serif" font-size="24" fill="#1d1d1d">describing a Lake Erie schooner report.</text>
-  <text x="70" y="404" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#111">CITATION</text>
-  <text x="70" y="438" font-family="Georgia,Times New Roman,serif" font-size="22" fill="#1d1d1d">Democratic Northwest (Napoleon, Ohio), July 21, 1892, &quot;A Marine Monster,&quot; Library of</text>
-  <text x="70" y="470" font-family="Georgia,Times New Roman,serif" font-size="22" fill="#1d1d1d">Congress digitized issue.</text>
-  <line x1="70" y1="1305" x2="930" y2="1305" stroke="#777" stroke-width="1"/>
-  <text x="70" y="1340" font-family="Consolas,Monaco,monospace" font-size="16" fill="#333">https://www.loc.gov/resource/sn84028296/1892-07-21/ed-1/</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1500" viewBox="0 0 1000 1500">
+  <rect x="0" y="0" width="1000" height="1500" fill="#f5f1e6"/>
+  <rect x="36" y="36" width="928" height="1428" fill="none" stroke="#222" stroke-width="3"/>
+  <rect x="52" y="52" width="896" height="1396" fill="none" stroke="#777" stroke-width="1.5"/>
+  <text x="70" y="115" font-family="Georgia, Times New Roman, serif" font-size="42" font-weight="700" fill="#111">Ohio newspaper sea-serpent reprint</text>
+  <text x="70" y="165" font-family="Georgia, Times New Roman, serif" font-size="42" font-weight="700" fill="#111">(July 21)</text>
+  <text x="70" y="223" font-family="Georgia, Times New Roman, serif" font-size="20" font-weight="400" fill="#111">Newspaper | 1892-07-21</text>
+  <text x="70" y="270" font-family="Georgia, Times New Roman, serif" font-size="22" font-weight="700" fill="#111">Summary</text>
+  <text x="70" y="304" font-family="Georgia, Times New Roman, serif" font-size="21" font-weight="400" fill="#111">Democratic Northwest includes the sea-serpent item titled "A</text>
+  <text x="70" y="334" font-family="Georgia, Times New Roman, serif" font-size="21" font-weight="400" fill="#111">Marine Monster," describing a Lake Erie schooner report.</text>
+  <text x="70" y="382" font-family="Georgia, Times New Roman, serif" font-size="22" font-weight="700" fill="#111">Citation</text>
+  <text x="70" y="416" font-family="Georgia, Times New Roman, serif" font-size="19" font-weight="400" fill="#111">Democratic Northwest (Napoleon, Ohio), July 21, 1892, "A Marine</text>
+  <text x="70" y="443" font-family="Georgia, Times New Roman, serif" font-size="19" font-weight="400" fill="#111">Monster," Library of Congress digitized issue.</text>
+  <line x1="70" y1="1342" x2="930" y2="1342" stroke="#777" stroke-width="1"/>
+  <text x="70" y="1360" font-family="Georgia, Times New Roman, serif" font-size="16" font-weight="700" fill="#222">Source URL</text>
+  <text x="70" y="1384" font-family="Georgia, Times New Roman, serif" font-size="15" font-weight="400" fill="#222">https://www.loc.gov/resource/sn84028296/1892-07-21/ed-1/</text>
 </svg>
