@@ -4,24 +4,32 @@ title: About and Research Standards
 ---
 <section class="hero slim"><div class="wrap"><p class="eyebrow">METHODOLOGY</p><h1>Explore the mystery.<br>Examine the evidence.</h1><p class="lede">A public archive of Ohio cryptid folklore and the records surrounding reported encounters.</p></div></section>
 <div class="wrap section prose panel">
-## What the labels mean
+## What the Labels Mean
 
-**Documented publication:** We can point to a specific historical publication where the account appeared, even when its claims remain unproven. **Secondary account:** The story reached us through another voice, often a later writer retelling an older report. **Reported:** Someone said they saw or heard something strange, and we preserve that testimony without presenting it as certainty. **Unverified lead:** A reference exists, but the original record has not yet been found or authenticated. **Folklore:** A regional tale lives in local memory without a confirmed first incident.
+**Documented publication:** We can identify a specific historical publication in which the account appeared, even when its claims remain unproven.
 
-## Editorial principles
+**Secondary account:** The story reached us through another source, often a later writer retelling an earlier report.
 
-1. We tie every historical claim to a traceable source whenever one can be found.
-2. We separate contemporary reporting from later retellings so echoes are not mistaken for originals.
-3. We preserve uncertainty in dates, names, and coordinates instead of smoothing rough edges.
-4. We never present illustrations as eyewitness photographs or archival proof.
+**Reported:** Someone claimed to have seen or heard something unusual, and we preserve that testimony without presenting it as fact.
+
+**Unverified lead:** A reference exists, but the original record has not yet been located or authenticated.
+
+**Folklore:** A regional tale survives in local memory without a confirmed originating incident.
+
+## Editorial Principles
+
+1. We link every historical claim to a traceable source whenever one can be found.
+2. We distinguish contemporary reporting from later retellings so echoes are not mistaken for original accounts.
+3. We preserve uncertainty in dates, names, and coordinates rather than smoothing over unresolved details.
+4. We never present illustrations as eyewitness photographs or archival evidence.
 5. We do not publish private witness contact information without explicit permission.
-6. We confirm copyright and licensing before hosting scans, clippings, or submitted images.
+6. We verify copyright and licensing before hosting scans, clippings, or submitted images.
 
-## Current archive status
+## Current Archive Status
 
-This archive is in active development. The case files and references here are **starting points for verification**, not a completed authenticated record, and this release includes no confirmed historical photograph or original newspaper scan.
+This archive is in active development. The case files and references are **starting points for verification**, not a completed, authenticated record. This release includes no confirmed historical photographs or original newspaper scans.
 
 ## Corrections
 
-If you discover a broken citation, a missing context detail, or a better source, propose a correction in the relevant Markdown or YAML file with a citation and a brief note explaining what changed and why.
+If you discover a broken citation, missing context, or a better source, propose a correction in the relevant Markdown or YAML file. Include a citation and a brief note explaining what changed and why.
 </div>
