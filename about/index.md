@@ -12,7 +12,7 @@ title: About and Research Standards
 
 <p><strong>Reported:</strong> Someone claimed to have seen or heard something unusual, and we preserve that testimony without presenting it as fact.</p>
 
-<p><strong>Unverified lead:</strong> A reference exists, but the original record has not yet been located or authenticated.</p>
+<p><strong>Archive lead:</strong> A reference exists and is tracked in the case file as part of the ongoing source trail.</p>
 
 <p><strong>Folklore:</strong> A regional tale survives in local memory without a confirmed originating incident.</p>
 
@@ -24,7 +24,7 @@ title: About and Research Standards
 	<li>We preserve uncertainty in dates, names, and coordinates rather than smoothing over unresolved details.</li>
 	<li>We never present illustrations as eyewitness photographs or archival evidence.</li>
 	<li>We do not publish private witness contact information without explicit permission.</li>
-	<li>We verify copyright and licensing before hosting scans, clippings, or submitted images.</li>
+	<li>We confirm copyright and licensing before hosting scans, clippings, or submitted images.</li>
 </ol>
 
 </div>

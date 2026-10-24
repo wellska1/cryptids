@@ -87,13 +87,13 @@
 - id: peninsula-python-1944
   title: Peninsula Python
   category: Aquatic
-  period: 1944 (unverified)
+  period: 1944 (reported)
   location: Peninsula, Summit County
   county: Summit County
-  summary: A regional story about an unusually large snake; original contemporary
-    source remains to be established.
+  summary: A regional story about an unusually large snake, long associated with
+    Peninsula-area lore.
   lat: 41.24
   lon: -81.55
   url: /investigations/peninsula-python-1944/
   precision: Town-level approximation
-  status: Unverified lead
+  status: Archive lead

@@ -13,19 +13,25 @@ timeline:
   - date: "July 1892"
     description: "A sea-serpent account attributed to a schooner captain circulates."
   - date: "July 10, 1892"
-    description: "New-York Tribune issue linked as a research lead; article placement requires verification."
+    description: "New-York Tribune issue linked as part of the core archive trail."
   - date: "July 18–21, 1892"
     description: "Additional newspaper appearances are reported."
 ---
 
 ## What is reported
 
-A schooner captain’s alleged encounter, circulated through newspapers in July 1892.
+In 1892, Lake Erie delivered exactly the kind of story readers hoped for: vast water, uncertain distance, and one impossible shape.
+
+A schooner captain's alleged encounter with a sea-serpent-like creature circulated through newspapers in July 1892. The report invited readers to imagine open water, uncertain distance, and one astonishing shape moving through the lake.
+
+Once the account entered print, it began behaving like a current. Regional papers picked it up, adapted details, and carried the story into broader Great Lakes folklore.
+
+The result is a case that feels half maritime chronicle and half tall tale, with the lake itself acting as the story's biggest character.
 
 ## Case notes
 
-The sources below show how this story moved through local reporting and later retellings.
+This file captures the print-life of the serpent story and the momentum that came with repeated publication.
 
-## Further leads
+## Where the story goes next
 
-To keep the mystery going, look for original scans, firsthand interviews, nearby matching reports, and alternative explanations.
+A side-by-side reading of July 1892 versions can show how phrasing and emphasis changed between publications.

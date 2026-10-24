@@ -20,12 +20,18 @@ timeline:
 
 ## What is reported
 
-A family-centered series of reported encounters, with later reporting and claims of law-enforcement response.
+Minerva's story lands with the force of a neighborhood rumor that suddenly everyone can retell in detail.
+
+A family-centered sequence of reported encounters in 1978, followed by extensive local and regional media attention. The case unfolds like a serialized mystery, with each update raising stakes and broadening the audience.
+
+Because the reports were tied to a specific household and neighborhood, the story retained strong place-memory even as it traveled far beyond Minerva.
+
+Even now, the case reads like a dramatic local serial: one night, one yard, one family, and a mystery that kept gaining chapters.
 
 ## Case notes
 
-The sources below show how this story moved through local reporting and later retellings.
+This file tracks the original burst of attention and the retrospectives that kept the case visible long afterward.
 
-## Further leads
+## Where the story goes next
 
-To keep the mystery going, look for original scans, firsthand interviews, nearby matching reports, and alternative explanations.
+Oral history from residents and timeline comparison across publications can add even more narrative depth to this case.

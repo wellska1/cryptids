@@ -18,12 +18,18 @@ timeline:
 
 ## What is reported
 
-Nineteenth-century newspaper accounts of a hairy wild man.
+In winter 1869, one wild-man headline was enough to send Gallipolis into legend.
+
+In early 1869, newspapers reported a hairy wild-man figure associated with the Gallipolis area. The tone of the era gave the account both drama and authority, and the story quickly moved beyond one publication.
+
+As reprints accumulated, the case shifted from a local oddity to a recognizable regional headline. Readers who never visited Gallipolis still knew the outline of the tale.
+
+That print-era momentum gave the legend its long legs. By the time it stopped being "news," it had already become folklore.
 
 ## Case notes
 
-The sources below show how this story moved through local reporting and later retellings.
+The lasting interest comes from circulation itself: this is a story that spread because it was compelling to repeat.
 
-## Further leads
+## Where the story goes next
 
-To keep the mystery going, look for original scans, firsthand interviews, nearby matching reports, and alternative explanations.
+Comparing variant print versions can reveal how the legend changed as it traveled from paper to paper.

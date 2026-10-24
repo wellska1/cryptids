@@ -18,12 +18,18 @@ timeline:
 
 ## What is reported
 
-Police officers’ reported observations and a subsequent iguana explanation.
+The Loveland case opens like a patrol-night anecdote and closes like a modern Ohio myth.
+
+The Loveland case centers on reported late-night observations by police officers near the river corridor, followed by a later explanation that points to a more ordinary animal. Both versions have survived, and that tension is part of what keeps the case alive.
+
+In practical terms, this is a folklore crossroads: an encounter story with official voices attached, then a reinterpretation that never fully replaced the original legend.
+
+That unresolved overlap is exactly why readers keep returning to Loveland. It feels open-ended in the best possible way.
 
 ## Case notes
 
-The sources below show how this story moved through local reporting and later retellings.
+The case remains readable and fun because it preserves both mystery and debate in equal measure.
 
-## Further leads
+## Where the story goes next
 
-To keep the mystery going, look for original scans, firsthand interviews, nearby matching reports, and alternative explanations.
+Collecting later retellings by decade can show exactly how Loveland Frogman became a statewide icon.

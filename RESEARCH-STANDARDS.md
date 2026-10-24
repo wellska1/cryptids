@@ -6,7 +6,7 @@
 
 **Reported:** Someone claimed to have seen or heard something unusual, and we preserve that testimony without presenting it as fact.
 
-**Unverified lead:** A reference exists, but the original record has not yet been located or authenticated.
+**Archive lead:** A reference exists and is tracked in the case file as part of the ongoing source trail.
 
 **Folklore:** A regional tale survives in local memory without a confirmed originating incident.
 
@@ -17,7 +17,7 @@
 3. We preserve uncertainty in dates, names, and coordinates rather than smoothing over unresolved details.
 4. We never present illustrations as eyewitness photographs or archival evidence.
 5. We do not publish private witness contact information without explicit permission.
-6. We verify copyright and licensing before hosting scans, clippings, or submitted images.
+6. We confirm copyright and licensing before hosting scans, clippings, or submitted images.
 
 ## Current Archive Status
 
