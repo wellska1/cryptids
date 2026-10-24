@@ -25,4 +25,4 @@ This archive is in active development. The case files and references are **start
 
 ## Corrections
 
-If you discover a broken citation, missing context, or a better source, propose a correction in the relevant Markdown or YAML file. Include a citation and a brief note explaining what changed and why.
+If you discover a broken citation, missing context, or a better source, submit a correction request with a citation and a brief note explaining what changed and why.

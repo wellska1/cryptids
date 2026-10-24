@@ -27,11 +27,4 @@ title: About and Research Standards
 	<li>We verify copyright and licensing before hosting scans, clippings, or submitted images.</li>
 </ol>
 
-<h2>Current Archive Status</h2>
-
-<p>This archive is in active development. The case files and references are <strong>starting points for verification</strong>, not a completed, authenticated record. This release includes no confirmed historical photographs or original newspaper scans.</p>
-
-<h2>Corrections</h2>
-
-<p>If you discover a broken citation, missing context, or a better source, propose a correction in the relevant Markdown or YAML file. Include a citation and a brief note explaining what changed and why.</p>
 </div>
