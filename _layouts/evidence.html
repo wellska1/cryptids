@@ -41,7 +41,11 @@ layout: default
 				<button type="button" id="zoom-in">Zoom +</button>
 				<button type="button" id="zoom-out">Zoom -</button>
 				<button type="button" id="zoom-reset">Reset</button>
+				{% if e.source_url and e.source_url != empty %}
+				<a href="{{ e.source_url }}" target="_blank" rel="noopener noreferrer">Open original file ↗</a>
+				{% else %}
 				<a href="{{ local_artifact | relative_url }}" target="_blank" rel="noopener">Open original file ↗</a>
+				{% endif %}
 			</div>
 		</div>
 		{% elsif external_artifact and external_artifact != empty %}
