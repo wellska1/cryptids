@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1400" viewBox="0 0 1000 1400">
+  <rect width="100%" height="100%" fill="#f4f1e8"/>
+  <rect x="30" y="30" width="940" height="1340" fill="none" stroke="#1e1e1e" stroke-width="2"/>
+  <text x="500" y="70" text-anchor="middle" font-family="Georgia,Times New Roman,serif" font-size="20" fill="#333">CRYPTID GAZETTE ARCHIVE</text>
+  <text x="70" y="90" font-family="Georgia,Times New Roman,serif" font-size="48" font-weight="700" fill="#111">Peninsula Python original newspaper</text>
+  <text x="70" y="142" font-family="Georgia,Times New Roman,serif" font-size="48" font-weight="700" fill="#111">search</text>
+  <text x="70" y="206" font-family="Arial,sans-serif" font-size="20" fill="#444">Newspaper | 1944 (reported) | ID E012</text>
+  <line x1="70" y1="242" x2="930" y2="242" stroke="#777" stroke-width="1"/>
+  <text x="70" y="282" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#111">SUMMARY</text>
+  <text x="70" y="316" font-family="Georgia,Times New Roman,serif" font-size="24" fill="#1d1d1d">Search target for a contemporary article tied to the reported year.</text>
+  <text x="70" y="370" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#111">CITATION</text>
+  <text x="70" y="404" font-family="Georgia,Times New Roman,serif" font-size="22" fill="#1d1d1d">Unlocated original source.</text>
+  <line x1="70" y1="1305" x2="930" y2="1305" stroke="#777" stroke-width="1"/>
+  <text x="70" y="1340" font-family="Consolas,Monaco,monospace" font-size="16" fill="#333"></text>
+</svg>

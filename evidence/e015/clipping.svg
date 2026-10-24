@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1400" viewBox="0 0 1000 1400">
+  <rect width="100%" height="100%" fill="#f4f1e8"/>
+  <rect x="30" y="30" width="940" height="1340" fill="none" stroke="#1e1e1e" stroke-width="2"/>
+  <text x="500" y="70" text-anchor="middle" font-family="Georgia,Times New Roman,serif" font-size="20" fill="#333">CRYPTID GAZETTE ARCHIVE</text>
+  <text x="70" y="90" font-family="Georgia,Times New Roman,serif" font-size="48" font-weight="700" fill="#111">Toledo History Box: Defiance Werewolf</text>
+  <text x="70" y="142" font-family="Georgia,Times New Roman,serif" font-size="48" font-weight="700" fill="#111">retrospective</text>
+  <text x="70" y="206" font-family="Arial,sans-serif" font-size="20" fill="#444">Newspaper | 2018-10-25 | ID E015</text>
+  <line x1="70" y1="242" x2="930" y2="242" stroke="#777" stroke-width="1"/>
+  <text x="70" y="282" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#111">SUMMARY</text>
+  <text x="70" y="316" font-family="Georgia,Times New Roman,serif" font-size="24" fill="#1d1d1d">Historical retrospective identifying the August 3, 1972 Toledo Blade reporting.</text>
+  <text x="70" y="370" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#111">CITATION</text>
+  <text x="70" y="404" font-family="Georgia,Times New Roman,serif" font-size="22" fill="#1d1d1d">Toledo History Box, “The Defiance Werewolf,” October 25, 2018.</text>
+  <line x1="70" y1="1305" x2="930" y2="1305" stroke="#777" stroke-width="1"/>
+  <text x="70" y="1340" font-family="Consolas,Monaco,monospace" font-size="16" fill="#333">https://web.archive.org/web/20260712183957/https://www.toledohistorybox.com/2018/10/25/the-defiance-werewolf/</text>
+</svg>
