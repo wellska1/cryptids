@@ -3,8 +3,10 @@
 	const img = document.getElementById('scan-image');
 	if (!img) return;
 
-	const viewer = img.closest('.scan-viewer');
+	const stage = img.closest('.scan-stage') || img.closest('.scan-viewer');
 	let scale = 1;
+	const MIN_SCALE = 0.5;
+	const MAX_SCALE = 2.25;
 
 	const parseFocus = () => {
 		const raw = img.getAttribute('data-focus');
@@ -24,12 +26,12 @@
 	};
 
 	const applyFocus = () => {
-		if (!viewer || !focus || !img.naturalWidth || !img.naturalHeight) {
+		if (!stage || !focus || !img.naturalWidth || !img.naturalHeight) {
 			scale = 1;
 			apply();
-			if (viewer) {
-				viewer.scrollLeft = 0;
-				viewer.scrollTop = 0;
+			if (stage) {
+				stage.scrollLeft = 0;
+				stage.scrollTop = 0;
 			}
 			return;
 		}
@@ -38,26 +40,26 @@
 		const targetHeight = img.naturalHeight * focus.h;
 
 		// Fit the clipping box to the viewer with a small margin.
-		const scaleX = (viewer.clientWidth * 0.92) / targetWidth;
-		const scaleY = (viewer.clientHeight * 0.88) / targetHeight;
-		scale = Math.max(0.5, Math.min(4, Math.min(scaleX, scaleY)));
+		const scaleX = (stage.clientWidth * 0.92) / targetWidth;
+		const scaleY = (stage.clientHeight * 0.9) / targetHeight;
+		scale = Math.max(MIN_SCALE, Math.min(MAX_SCALE, Math.min(scaleX, scaleY)));
 		apply();
 
 		const targetLeft = img.naturalWidth * focus.x * scale;
 		const targetTop = img.naturalHeight * focus.y * scale;
-		const padX = 16;
-		const padY = 16;
-		viewer.scrollLeft = Math.max(0, targetLeft - padX);
-		viewer.scrollTop = Math.max(0, targetTop - padY);
+		const padX = 20;
+		const padY = 20;
+		stage.scrollLeft = Math.max(0, targetLeft - padX);
+		stage.scrollTop = Math.max(0, targetTop - padY);
 	};
 
 	document.getElementById('zoom-in')?.addEventListener('click', () => {
-		scale = Math.min(4, scale + 0.25);
+		scale = Math.min(MAX_SCALE, scale + 0.2);
 		apply();
 	});
 
 	document.getElementById('zoom-out')?.addEventListener('click', () => {
-		scale = Math.max(0.5, scale - 0.25);
+		scale = Math.max(MIN_SCALE, scale - 0.2);
 		apply();
 	});
 
@@ -65,9 +67,21 @@
 		applyFocus();
 	});
 
+	const runInitialFocus = () => {
+		requestAnimationFrame(() => {
+			requestAnimationFrame(() => {
+				if (focus) {
+					applyFocus();
+				} else {
+					apply();
+				}
+			});
+		});
+	};
+
 	if (img.complete) {
-		applyFocus();
+		runInitialFocus();
 	} else {
-		img.addEventListener('load', applyFocus, { once: true });
+		img.addEventListener('load', runInitialFocus, { once: true });
 	}
 })();

@@ -144,6 +144,33 @@ nav a:hover,nav a.active{
 	color:#d9d2f2;
 }
 
+/* Artifact viewer layout: keep controls static while panning image */
+.scan-viewer{
+	overflow:hidden;
+	padding:1rem;
+}
+
+.scan-stage{
+	overflow:auto;
+	max-height:min(72vh,760px);
+	background:#101b1d;
+	border:1px solid #61766b;
+	border-radius:10px;
+	padding:.9rem;
+}
+
+.scan-stage img{
+	display:block;
+	max-width:none;
+	height:auto;
+}
+
+.scan-actions{
+	position:static;
+	margin-top:.65rem;
+	border-radius:8px;
+}
+
 @media (max-width:900px){
 	.case-card:nth-child(3n+1),
 	.case-card:nth-child(3n+2),
