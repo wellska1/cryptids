@@ -13,27 +13,37 @@
 	};
 
 	const pagePath = normalize(window.location.pathname);
+	const navItems = links
+		.map((link) => {
+			const href = link.getAttribute('href');
+			if (!href) return null;
+			const url = new URL(href, window.location.origin);
+			return {link, path: normalize(url.pathname)};
+		})
+		.filter(Boolean);
 
 	let active = null;
-	for (const link of links) {
-		const href = link.getAttribute('href');
-		if (!href) continue;
-		const url = new URL(href, window.location.origin);
-		const linkPath = normalize(url.pathname);
 
-		if (linkPath === '/' && pagePath !== '/') continue;
-		if (linkPath !== '/' && pagePath.startsWith(linkPath)) {
-			active = link;
-			break;
+	// 1) Prefer exact path matches.
+	const exact = navItems.find((item) => item.path === pagePath);
+	if (exact) {
+		active = exact.link;
+	} else {
+		// 2) Otherwise, choose the longest non-root prefix match.
+		let best = null;
+		for (const item of navItems) {
+			if (item.path === '/') continue;
+			if (pagePath.startsWith(item.path) && (!best || item.path.length > best.path.length)) {
+				best = item;
+			}
 		}
-		if (linkPath === pagePath) {
-			active = link;
-			break;
-		}
+		if (best) active = best.link;
 	}
 
-	if (!active && pagePath === '/') {
-		active = links.find((a) => normalize(new URL(a.getAttribute('href'), window.location.origin).pathname) === '/');
+	if (!active) {
+		// 3) Fallback to the shortest nav path (typically Home/base section).
+		const fallback = navItems.slice().sort((a, b) => a.path.length - b.path.length)[0];
+		if (fallback) active = fallback.link;
 	}
 
 	if (active) {
