@@ -55,8 +55,8 @@
   annotations:
   - A later retrospective, not the original 1978 eyewitness record.
   rights: Not assessed — do not republish a scan without checking permissions.
-  access_note: Newspaper publisher home page link.
-  citation_status: Source link logged
+  access_note: Publisher home page is linked; a stable public URL for the specific August 15, 2004 article has not yet been identified.
+  citation_status: Bibliographic citation logged; article URL pending
   location_precision: Regional / approximate
   research_notes: Citation logged for archive context and follow-up reading.
 - id: E004
@@ -289,15 +289,16 @@
   status: Source linked
   summary: Historical retrospective identifying the August 3, 1972 Toledo Blade reporting.
   citation: Toledo History Box, “The Defiance Werewolf,” October 25, 2018.
-  source_url: https://www.toledohistorybox.com/2018/10/25/the-defiance-werewolf/
+  source_url: https://web.archive.org/web/20260712183957/https://www.toledohistorybox.com/2018/10/25/the-defiance-werewolf/
   source_kind: secondary_article
   original_document_verified: false
   media_path: ''
   transcription: ''
   annotations:
   - Secondary contextual account; consult original newspaper for exact wording.
+  - Linked via Wayback snapshot for stable archival access.
   rights: External document only. Do not mirror or reproduce without checking copyright and permissions.
-  access_note: Direct link to source material; no authenticated local scan is bundled.
+  access_note: Wayback snapshot of the cited page; no authenticated local scan is bundled.
   citation_status: Source located
   location_precision: Regional / approximate
   research_notes: A published account establishes reporting, not the existence of a cryptid.
@@ -310,6 +311,7 @@
   summary: Democratic Northwest includes the sea-serpent item titled "A Marine Monster," describing a Lake Erie schooner report.
   citation: Democratic Northwest (Napoleon, Ohio), July 21, 1892, "A Marine Monster," Library of Congress digitized issue.
   source_url: https://www.loc.gov/resource/sn84028296/1892-07-21/ed-1/
+  artifact_preview_url: https://www.loc.gov/resource/sn84028296/1892-07-21/ed-1/?r=0.02,0.503,0.272,0.259,0
   source_kind: digitized_newspaper_link
   original_document_verified: false
   media_path: ''

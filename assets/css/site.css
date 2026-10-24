@@ -3,6 +3,7 @@
 
 /* Evidence dossier viewer */
 .scan-viewer{overflow:auto;max-height:75vh;background:#101b1d;border:1px solid #61766b;border-radius:12px;padding:1rem}.scan-viewer img{display:block;max-width:100%;height:auto}.scan-actions{display:flex;flex-wrap:wrap;gap:.6rem;position:sticky;bottom:0;background:#162527;padding:.6rem}.scan-actions button{background:#344b43;color:#f4e7c9;border:1px solid #657a6a;border-radius:5px;padding:.4rem .8rem;cursor:pointer}.missing-artifact{padding:1.4rem;border:1px dashed #8d997f;background:#1a2b2b;border-radius:12px}.transcript{white-space:normal;line-height:1.7;border-left:3px solid #d4c494;padding-left:1rem}
+.scan-embed{display:block;width:100%;height:min(72vh,820px);border:1px solid #5f756e;border-radius:10px;background:#0d1518}
 
 /* Navigation state */
 nav a.active{color:#f7e8bc;border-bottom:2px solid var(--gold);padding-bottom:2px}
