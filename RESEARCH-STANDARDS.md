@@ -1,21 +1,28 @@
-# Source and citation standards
+## What the Labels Mean
 
-Every public evidence record must have a unique ID, associated investigation, citation, source type, research status, provenance notes, and rights assessment. Bibliographic leads are not verified original scans.
+**Documented publication:** We can identify a specific historical publication in which the account appeared, even when its claims remain unproven.
 
-## Attaching an original document
+**Secondary account:** The story reached us through another source, often a later writer retelling an earlier report.
 
-1. Obtain an original scan from a library, public archive, or rights holder. Check reuse permissions before adding the file to `assets/documents/`.
-2. Confirm title, author (if known), newspaper, publication date, edition and page directly against the original. Replace any generic publisher link with a stable item-level URL.
-3. Update `_data/evidence.yml`: set `media_path` to the public relative path; `original_document_verified: true` only after inspection; set `citation_status` to `Verified against original`; add `rights`, `access_note`, and `annotations`.
-4. Add a transcription only when verified against the original. Preserve uncertainty and indicate illegible passages. Do not silently reconstruct missing text.
-5. Link any specific claim to its evidence ID in the investigation Markdown, e.g. `[Newspaper report]({{ '/evidence/e001/' | relative_url }})` (Liquid links work in Jekyll Markdown).
-6. Use a **separate** evidence record for each independent newspaper, interview, photograph, or official report. Syndicated reprints are not independent eyewitnesses.
+**Reported:** Someone claimed to have seen or heard something unusual, and we preserve that testimony without presenting it as fact.
 
-## Citation conventions
+**Unverified lead:** A reference exists, but the original record has not yet been located or authenticated.
 
-Newspapers: Author (if known), “Headline,” *Newspaper*, city, full date, page, stable archive URL and access date.
-Interviews: Witness (consent permitting), interviewer, date, format, holding archive, and consent/rights terms.
-Photos: Photographer, date, place, original file or negative provenance, modifications, license and chain of custody.
-Folklore: Earliest traceable publication or explicitly mark oral tradition as undated.
+**Folklore:** A regional tale survives in local memory without a confirmed originating incident.
 
-**Publication policy:** Never label a creature as scientifically confirmed; never present generated illustrations as evidence; redact precise private locations and personal data. Do not embed third-party images without permission.
+## Editorial Principles
+
+1. We link every historical claim to a traceable source whenever one can be found.
+2. We distinguish contemporary reporting from later retellings so echoes are not mistaken for original accounts.
+3. We preserve uncertainty in dates, names, and coordinates rather than smoothing over unresolved details.
+4. We never present illustrations as eyewitness photographs or archival evidence.
+5. We do not publish private witness contact information without explicit permission.
+6. We verify copyright and licensing before hosting scans, clippings, or submitted images.
+
+## Current Archive Status
+
+This archive is in active development. The case files and references are **starting points for verification**, not a completed, authenticated record. This release includes no confirmed historical photographs or original newspaper scans.
+
+## Corrections
+
+If you discover a broken citation, missing context, or a better source, propose a correction in the relevant Markdown or YAML file. Include a citation and a brief note explaining what changed and why.
